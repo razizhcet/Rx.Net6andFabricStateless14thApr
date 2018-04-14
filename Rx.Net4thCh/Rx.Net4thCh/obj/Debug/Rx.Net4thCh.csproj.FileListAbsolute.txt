@@ -1,0 +1,16 @@
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\Rx.Net4thCh.exe.config
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\Rx.Net4thCh.exe
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\Rx.Net4thCh.pdb
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.Core.dll
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.Interfaces.dll
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.Linq.dll
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.PlatformServices.dll
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.Windows.Threading.dll
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.Core.xml
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.Interfaces.xml
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.Linq.xml
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.PlatformServices.xml
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\bin\Debug\System.Reactive.Windows.Threading.xml
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\obj\Debug\Rx.Net4thCh.csprojResolveAssemblyReference.cache
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\obj\Debug\Rx.Net4thCh.exe
+E:\RxDev\Rx.Net4thCh\Rx.Net4thCh\obj\Debug\Rx.Net4thCh.pdb

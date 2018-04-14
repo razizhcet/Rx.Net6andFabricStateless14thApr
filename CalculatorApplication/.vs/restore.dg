@@ -1,0 +1,5 @@
+#:E:\ServiceFabricProject\CalculatorApplication\CalculatorService\CalculatorService.xproj
+#:E:\ServiceFabricProject\CalculatorApplication\CalculatorApplication\CalculatorApplication.sfproj
+E:\ServiceFabricProject\CalculatorApplication\CalculatorApplication\CalculatorApplication.sfproj|E:\ServiceFabricProject\CalculatorApplication\CalculatorService\CalculatorService.xproj
+#:E:\ServiceFabricProject\CalculatorApplication\CalculatorClient\CalculatorClient.csproj
+E:\ServiceFabricProject\CalculatorApplication\CalculatorClient\CalculatorClient.csproj|E:\ServiceFabricProject\CalculatorApplication\CalculatorService\CalculatorService.xproj
